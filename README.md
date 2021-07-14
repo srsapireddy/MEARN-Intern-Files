@@ -1,4 +1,4 @@
-# MEARN-Intern-Files
+# MEARN-Intern-Files-HTML-Assignments
 
 Assignment 1: Creating an simple HTML page
 
